@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ls -la dsiplays a long format list of all files including hidden files" > ls_cwd_content
